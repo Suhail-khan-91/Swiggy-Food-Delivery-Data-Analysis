@@ -71,3 +71,8 @@ Here are the 13 queries and screenshots from the project.
 
 **13. Identify customers who have the same city and have placed orders at the same restaurants.**
 ![Query 13](query_screenshots/Q13.png)
+
+---
+
+## 🏁 Conclusion
+This SQL analysis project successfully demonstrated the ability to query a complex database to extract actionable business insights. By analyzing customer behavior, restaurant performance, and delivery logistics, this project showcases a strong foundation in real-world data analytics and advanced SQL.
