@@ -24,6 +24,6 @@ The project helped simulate **real-world food delivery analytics**, providing in
 
 ---
 
-### <b>&#128_187;</b> Project Files
+### 📂 Project Files
 * **[📊 View All 13 Analysis Queries](analysis_queries.sql)**
 * **[🗂️ Download Dataset (rar)](dataset.rar)**
